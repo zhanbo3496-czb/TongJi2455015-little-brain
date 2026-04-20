@@ -1,0 +1,8 @@
+{
+  "name": "HoloTree 3D",
+  "description": "A 3D interactive web application featuring a golden particle Christmas tree and AI hand gesture controls using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
